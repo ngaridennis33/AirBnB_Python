@@ -1135,7 +1135,3 @@ Otherwise, you will have to re-write the console by replacing `precmd` by `defau
 * GitHub repository: `AirBnB_clone`
 * File: `console.py`
 
-### Authors :black_nib
-
-* **Lucy Njeri Maina** <[NjeriMaina4172](https://github.com/NjeriMaina4172)>
-* **Dennis Nderitu Kinyanjui** <[dennisnderitu254](https://github.com/dennisnderitu254)>
